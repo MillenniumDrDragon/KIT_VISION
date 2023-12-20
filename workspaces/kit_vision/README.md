@@ -18,6 +18,6 @@ glass.jpg
 swan.jpg
 tomato.jpg
 
-7주차 수업 내용은 _chapter07에 들어 있음
+7주차 수업 내용은 kit_vision/_chapter07에 들어 있음
 
 
