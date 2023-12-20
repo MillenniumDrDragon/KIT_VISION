@@ -18,4 +18,6 @@ glass.jpg
 swan.jpg
 tomato.jpg
 
+7주차 수업 내용은 _chapter07에 들어 있음
+
 
